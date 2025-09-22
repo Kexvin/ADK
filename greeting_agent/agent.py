@@ -1,6 +1,6 @@
 from google.adk.agents import Agent
 
-
+# this is where the schematics for agent is
 root_agent = Agent(
     name = "greeting_agent",
     # https://ai.google.dev/gemini-api/docs/models
