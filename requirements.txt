@@ -1,0 +1,7 @@
+google-adk[database]==0.3.0
+yfinance==0.2.56
+psutil==5.9.5
+litellm==1.73.6.post1
+google-genai==1.38.0
+python-dotenv==1.10
+protobuf~=6.32.1
