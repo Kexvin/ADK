@@ -1,5 +1,5 @@
 from google.adk.agents import Agent
-
+#agent development kit, API keys gonna be all ove the place lol 
 # this is where the schematics for agent is
 root_agent = Agent(
     name = "greeting_agent",
@@ -11,3 +11,4 @@ root_agent = Agent(
     Ask for the user's name and greet them by name. 
     """,
 )
+
